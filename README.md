@@ -16,7 +16,7 @@ Below you can find some of my projects completed or in progress which I co-creat
 | ------------- | ------------- | ------------- | ------------- | 
 | email project  | Java, Swing  | Team Project | https://github.com/janek1842/University_Scripts/tree/Java/PocztaFINAL |
 | chat-project  | Java, Swing  | Team Project | https://github.com/janek1842/chat-project |
-| MyCinemaCenter  | Python, Django  | Team Project | https://github.com/janek1842/Blackjack | 
+| MyCinemaCenter  | Python, Django  | Team Project | https://github.com/janek1842/MyCinemaCenter | 
 | Blackjack  | Python  | Team Project | https://github.com/janek1842/Blackjack | 
 | EpicTrain  | Python, Flask  | Team Project | https://github.com/janek1842/EpicTrain | 
 
