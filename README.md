@@ -8,13 +8,13 @@
 
 :+1: **COMPLETED PROJECTS**
 
-| Project name  | Technologies | Description | 
-| ------------- | ------------- | ------------- | 
-| email project  | Java, Swing  | Team Project |
-| chat-project  | Java, Swing  | Team Project |
-| MyCinemaCenter  | Python, Django  | Team Project |
-| Blackjack  | Python  | Team Project |
-| EpicTrain  | Python, Flask  | Team Project |
+| Project name  | Technologies | Description | Link | 
+| ------------- | ------------- | ------------- | ------------- | 
+| email project  | Java, Swing  | Team Project | https://github.com/janek1842/University_Scripts/tree/Java/PocztaFINAL |
+| chat-project  | Java, Swing  | Team Project | https://github.com/janek1842/chat-project |
+| MyCinemaCenter  | Python, Django  | Team Project | https://github.com/janek1842/Blackjack | 
+| Blackjack  | Python  | Team Project | https://github.com/janek1842/Blackjack | 
+| EpicTrain  | Python, Flask  | Team Project | https://github.com/janek1842/EpicTrain | 
 
 :muscle: **PROJECTS IN PROGRESS**
 
