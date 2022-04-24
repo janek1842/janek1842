@@ -6,6 +6,10 @@
 - 👯 I’m looking to collaborate with passionate people that share similar interests with mine.
 - :volleyball: :biking_man: :mountain: My hobbies are volleyball, table tennis, cycling and mountains.
 
+#### My projects
+
+Below you can find some of my projects completed or in progress which I co-created during my university lifetime :school:
+
 :+1: **COMPLETED PROJECTS**
 
 | Project name  | Technologies | Description | Link | 
