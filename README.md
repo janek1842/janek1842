@@ -25,4 +25,4 @@ Below you can find some of my projects completed or in progress which I co-creat
 | Project name  | Technologies | Description | 
 | ------------- | ------------- | ------------- | 
 | AS Networks Embeddings  | Python, Machine Learning  | Team Project |
-| SNMP-COM  | C/C++  | Self Project |
+| SNMP-COM  | C  | Self Project |
