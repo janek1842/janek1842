@@ -14,15 +14,15 @@ Below you can find some of my projects completed or in progress which I co-creat
 
 | Project name  | Technologies | Description | Link | 
 | ------------- | ------------- | ------------- | ------------- | 
-| email project  | Java, Swing  | Team Project | https://github.com/janek1842/University_Scripts/tree/Java/PocztaFINAL |
+| email project  | Java, Swing, OOP  | Team Project | https://github.com/janek1842/University_Scripts/tree/Java/PocztaFINAL |
 | chat-project  | Java, Swing  | Team Project | https://github.com/janek1842/chat-project |
 | MyCinemaCenter  | Python, Django  | Team Project | https://github.com/janek1842/MyCinemaCenter | 
-| Blackjack  | Python  | Team Project | https://github.com/janek1842/Blackjack | 
-| EpicTrain  | Python, Flask  | Team Project | https://github.com/janek1842/EpicTrain | 
+| Blackjack  | Python, SQLite  | Team Project | https://github.com/janek1842/Blackjack | 
+| EpicTrain  | Python, Flask, MySQL  | Team Project | https://github.com/janek1842/EpicTrain | 
 
 :muscle: **PROJECTS IN PROGRESS**
 
 | Project name  | Technologies | Description | 
 | ------------- | ------------- | ------------- | 
 | AS Networks Embeddings  | Python, Machine Learning  | Team Project |
-| SNMP-COM  | C  | Self Project |
+| SNMP-COM  | C, Sockets  | Self Project |
