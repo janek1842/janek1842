@@ -20,8 +20,8 @@ Below you can find some of my projects completed or in progress which I co-creat
 | Blackjack  | Python, SQLite  | Team Project | https://github.com/janek1842/Blackjack | 
 | EpicTrain  | Python, Flask, MySQL  | Team Project | https://github.com/janek1842/EpicTrain | 
 | SNMP-COM  | C, Network Sockets  | Self Project | https://github.com/janek1842/SNMP-COM | 
-:muscle: **PROJECTS IN PROGRESS**
 
+:muscle: **PROJECTS IN PROGRESS**
 | Project name  | Technologies | Description | 
 | ------------- | ------------- | ------------- | 
 | Autonomous Networks Embeddings  | Python, Machine Learning  | Team Project | https://github.com/Heliwrenaid/ML-network-embeddings | 
