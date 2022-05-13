@@ -22,6 +22,6 @@ Below you can find some of my projects completed or in progress which I co-creat
 | SNMP-COM  | C, Network Sockets  | Self Project | https://github.com/janek1842/SNMP-COM | 
 
 :muscle: **PROJECTS IN PROGRESS**
-| Project name  | Technologies | Description | 
-| ------------- | ------------- | ------------- | 
+| Project name  | Technologies | Description | Link | 
+| ------------- | ------------- | ------------- | ------------- | 
 | Autonomous Networks Embeddings  | Python, Machine Learning  | Team Project | https://github.com/Heliwrenaid/ML-network-embeddings | 
