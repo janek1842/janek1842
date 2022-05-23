@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning about Telecommunications and Networking ! 
 - 👯 I’m looking to collaborate with passionate people that share similar interests with mine.
-- :volleyball: :biking_man: :mountain: My hobbies are volleyball, table tennis, cycling and mountains.
+- :mountain: My hobbies are volleyball, table tennis, cycling and mountains.
 
 #### My projects
 
