@@ -8,9 +8,9 @@
 
 #### My projects
 
-Below you can find some of my projects completed or in progress which I co-created during my university lifetime :school:
+Below you can find some of my projects completed or in progress which I co-created during my university lifetime
 
-:+1: **COMPLETED PROJECTS**
+**COMPLETED PROJECTS**
 
 | Project name  | Technologies | Description | Link | 
 | ------------- | ------------- | ------------- | ------------- | 
@@ -21,7 +21,7 @@ Below you can find some of my projects completed or in progress which I co-creat
 | EpicTrain  | Python, Flask, MySQL  | Team Project | https://github.com/janek1842/EpicTrain | 
 | SNMP-COM  | C, Network Sockets  | Self Project | https://github.com/janek1842/SNMP-COM | 
 
-:muscle: **PROJECTS IN PROGRESS**
+**PROJECTS IN PROGRESS**
 | Project name  | Technologies | Description | Link | 
 | ------------- | ------------- | ------------- | ------------- | 
 | Autonomous Systems Networks Embeddings  | Python, Machine Learning  | Team Project | https://github.com/Heliwrenaid/ML-network-embeddings | 
