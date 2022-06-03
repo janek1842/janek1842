@@ -24,4 +24,4 @@ Below you can find some of my projects completed or in progress which I co-creat
 **PROJECTS IN PROGRESS**
 | Project name  | Technologies | Description | Link | 
 | ------------- | ------------- | ------------- | ------------- | 
-| Autonomous Systems Networks Embeddings  | Python, Machine Learning  | Team Project | https://github.com/Heliwrenaid/ML-network-embeddings | 
+| AS Networks Embeddings  | Python, Machine Learning  | Team Project | https://github.com/Heliwrenaid/ML-network-embeddings | 
