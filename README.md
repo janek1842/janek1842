@@ -8,16 +8,6 @@
 
 #### My projects
 
-Below you can find some of my projects completed or in progress which I co-created during my university lifetime
+Here you can find some of my completed or in progress projects that I contributed to during my life at the university
+https://github.com/janek1842?tab=repositories
 
-**COMPLETED PROJECTS**
-
-| Project name  | Technologies | Description | Link | 
-| ------------- | ------------- | ------------- | ------------- | 
-| email project  | Java, Swing, OOP  | Team Project | https://github.com/janek1842/University_Scripts/tree/Java/PocztaFINAL |
-| chat-project  | Java, Swing  | Team Project | https://github.com/janek1842/chat-project |
-| MyCinemaCenter  | Python, Django  | Team Project | https://github.com/janek1842/MyCinemaCenter | 
-| Blackjack  | Python, SQLite  | Team Project | https://github.com/janek1842/Blackjack | 
-| EpicTrain  | Python, Flask, MySQL  | Team Project | https://github.com/janek1842/EpicTrain | 
-| SNMP-COM  | C, Network Sockets  | Self Project | https://github.com/janek1842/SNMP-COM | 
-| AS Networks Embeddings  | Python, Machine Learning  | Team Project | https://github.com/janek1842/ML-network-embeddings | 
