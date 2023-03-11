@@ -8,6 +8,4 @@
 
 #### My projects
 
-Here you can find some of my completed or in progress projects that I contributed to during my life at the university
-https://github.com/janek1842?tab=repositories
-
+[Here](https://github.com/janek1842?tab=repositories) you can find some of my completed or in progress projects that I contributed to during my life at the university
